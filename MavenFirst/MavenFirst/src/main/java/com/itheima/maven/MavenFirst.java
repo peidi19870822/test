@@ -17,7 +17,7 @@
 public class MavenFirst {
 
 	public String sayHello(String name) {
-		name=+"pei";
+		name=+"pei2";
 		return "hello " + name;
 	}
 	public String sayHello2(String name) {
