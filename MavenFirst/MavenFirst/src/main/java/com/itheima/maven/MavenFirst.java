@@ -17,7 +17,7 @@
 public class MavenFirst {
 
 	public String sayHello(String name) {
-		name=+"pei du";
+		name=+"pei du kaka";
 		return "hello " + name;
 	}
 
