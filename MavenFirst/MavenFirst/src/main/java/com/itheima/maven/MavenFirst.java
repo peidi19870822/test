@@ -20,6 +20,5 @@ public class MavenFirst {
 		name=+"pei du kaka";
 		return "hello " + name;
 	}
-lll
-
+12345
 }
