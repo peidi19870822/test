@@ -12,7 +12,7 @@
  * <p>
  * Company: www.itcast.com
  * </p>
- *  @author 佩蒂   @version 1.0
+ *  @author 佩蒂   2.0
  */
 public class MavenFirst {
 
