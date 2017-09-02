@@ -23,4 +23,7 @@ public class MavenFirst {
 	public String sayHello2(String name) {
 		return "hello " + name;
 	}
+	public String sayHello3(String name) {
+		return "hello " + name;
+	}
 }
