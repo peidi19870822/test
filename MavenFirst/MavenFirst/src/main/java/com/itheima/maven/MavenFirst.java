@@ -12,7 +12,7 @@
  * <p>
  * Company: www.itcast.com
  * </p>
- *  @author 佩蒂   @date 2015-12-20 上午10:36:40    @version 1.0
+ *  @author 佩蒂   @version 1.0
  */
 public class MavenFirst {
 
