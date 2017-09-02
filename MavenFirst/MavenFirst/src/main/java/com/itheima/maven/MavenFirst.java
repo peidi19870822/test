@@ -20,10 +20,4 @@ public class MavenFirst {
 		name=+"pei du kaka";
 		return "hello " + name;
 	}
-
 }
-
-<<<<<<< HEAD
-kaf
-=======
->>>>>>> 97584762294db4adecf26c4c401f0cf7491eba03
