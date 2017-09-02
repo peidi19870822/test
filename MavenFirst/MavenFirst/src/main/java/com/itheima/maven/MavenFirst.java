@@ -20,7 +20,7 @@ public class MavenFirst {
 		name=+"pei2";
 		return "hello " + name;
 	}
-	public String sayHello2(String name) {
+	public String sayHello3(String name) {
 		return "hello " + name;
 	}
 	public String sayHello3(String name) {
